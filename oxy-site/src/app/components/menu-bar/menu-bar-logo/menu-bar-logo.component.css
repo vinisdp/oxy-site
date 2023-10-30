@@ -1,0 +1,6 @@
+.menu-bar__logo{
+  margin-left: 2rem;
+  display: flex;
+  align-items: center;
+	position: absolute;
+}

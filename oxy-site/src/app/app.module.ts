@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { MenuBarComponent } from './components/menu-bar/menu-bar.component';
 import { MenuBarItemComponent } from './components/menu-bar/menu-bar-item/menu-bar-item.component';
 import { MenuBarLogoComponent } from './components/menu-bar/menu-bar-logo/menu-bar-logo.component';
+import { HomeComponent } from './page/home/home.component';
 
 @NgModule({
   declarations: [
@@ -13,6 +14,7 @@ import { MenuBarLogoComponent } from './components/menu-bar/menu-bar-logo/menu-b
     MenuBarComponent,
     MenuBarItemComponent,
     MenuBarLogoComponent,
+    HomeComponent,
 
   ],
   imports: [
