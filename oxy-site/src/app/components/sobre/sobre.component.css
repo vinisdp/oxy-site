@@ -1,0 +1,10 @@
+.sobre__container{
+	border:3px solid #3E4357;
+	border-radius: 10px;
+  background-color: lightblue;
+	display: grid;
+	overflow: hidden;
+  box-shadow: 5px 5px 10px 3px rgba(0, 0, 0, 0.18);
+-webkit-box-shadow: 5px 5px 10px 3px rgba(0, 0, 0, 0.18);
+-moz-box-shadow: 5px 5px 10px 3px rgba(0, 0, 0, 0.18);
+}

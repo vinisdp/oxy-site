@@ -7,6 +7,7 @@ import { MenuBarComponent } from './components/menu-bar/menu-bar.component';
 import { MenuBarItemComponent } from './components/menu-bar/menu-bar-item/menu-bar-item.component';
 import { MenuBarLogoComponent } from './components/menu-bar/menu-bar-logo/menu-bar-logo.component';
 import { HomeComponent } from './page/home/home.component';
+import { SobreComponent } from './components/sobre/sobre.component';
 
 @NgModule({
   declarations: [
@@ -15,6 +16,7 @@ import { HomeComponent } from './page/home/home.component';
     MenuBarItemComponent,
     MenuBarLogoComponent,
     HomeComponent,
+    SobreComponent,
 
   ],
   imports: [
