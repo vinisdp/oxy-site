@@ -1,8 +1,6 @@
 .sobre__container{
-	border:3px solid #3E4357;
 	border-radius: 10px;
   padding: 1rem;
-  background-color: lightblue;
 	display: flex;
   flex-direction: row;
 	overflow: hidden;
@@ -16,10 +14,19 @@
   right: 1rem;
   margin: 1rem;
   align-items: center;
+  border-radius: 5%;
+  overflow: hidden;
+  box-shadow: 5px 5px 10px 3px rgba(0, 0, 0, 0.18);
+-webkit-box-shadow: 5px 5px 10px 3px rgba(0, 0, 0, 0.18);
+-moz-box-shadow: 5px 5px 10px 3px rgba(0, 0, 0, 0.18);
 }
 .sobre__desc{
   text-align: justify;
   width: 50%;
   margin:1rem;
   left: 1rem;
+  color: white;
+}
+.sobre__desc>h1{
+  margin:1rem;
 }
