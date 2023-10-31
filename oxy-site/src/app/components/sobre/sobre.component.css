@@ -1,6 +1,6 @@
 .sobre__container{
 	border-radius: 10px;
-  padding: 1rem;
+  padding: 2rem;
 	display: flex;
   flex-direction: row;
 	overflow: hidden;
@@ -12,7 +12,7 @@
 .sobre__img{
   width: 50%;
   right: 1rem;
-  margin: 1rem;
+  margin: 2rem;
   align-items: center;
   border-radius: 5%;
   overflow: hidden;
@@ -23,10 +23,8 @@
 .sobre__desc{
   text-align: justify;
   width: 50%;
-  margin:1rem;
-  left: 1rem;
+  margin:2rem;
+  left: 2rem;
   color: white;
 }
-.sobre__desc>h1{
-  margin:1rem;
-}
+
